@@ -1,16 +1,16 @@
-# fastjson <83 RCE Â©¶´¸´ÏÖ
+# fastjson < 1.2.83 RCE æ¼æ´žå¤çŽ°
 
-##ÀûÓÃÌõ¼þ
-- fastjson°æ±¾£º 1.2.76 <= fastjson < 1.2.83
-- ´æÔÚgroovyÒÀÀµ
+##åˆ©ç”¨æ¡ä»¶
+- fastjsonç‰ˆæœ¬ï¼š 1.2.76 <= fastjson < 1.2.83
+- å­˜åœ¨groovyä¾èµ–
 
-##¸´ÏÖ²½Öè
-1.±àÒëattack Ä£¿éÎª attack-1.jar°ü
+##å¤çŽ°æ­¥éª¤
+1.ç¼–è¯‘attack æ¨¡å—ä¸º attack-1.jaråŒ…
 
-2.ÔÚattack-1.jar°üËùÔÚµÄÄ¿Â¼ÏÂÖ´ÐÐÆôÓÃhttp·þÎñ¡£
+2.åœ¨attack-1.jaråŒ…æ‰€åœ¨çš„ç›®å½•ä¸‹æ‰§è¡Œå¯ç”¨httpæœåŠ¡ã€‚
 
 `python -m SimpleHTTPServer 8433`
 
-3.ÔËÐÐpoc
+3.è¿è¡Œpoc
 
-![img](./images/1662101876011-b08585ac-f575-4c11-bb7d-2d09f1296cd1.png)
+![image](images/1662101876011-b08585ac-f575-4c11-bb7d-2d09f1296cd1.png)
