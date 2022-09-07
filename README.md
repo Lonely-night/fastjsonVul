@@ -1,4 +1,4 @@
-# fastjson < 1.2.83 RCE 漏洞复现
+# fastjson <= 1.2.80 RCE 漏洞复现
 
 ##利用条件
 - fastjson版本： 1.2.76 <= fastjson < 1.2.83
